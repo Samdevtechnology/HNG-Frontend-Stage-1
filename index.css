@@ -43,7 +43,7 @@ a:hover {
 .target-icon {
   width: 3rem;
   height: 3rem;
-  background-image: url("/public/assets/target-icon.svg");
+  background-image: url("public/assets/target-icon.svg");
   background-size: contain;
   background-repeat: no-repeat;
   margin-bottom: 1rem;
